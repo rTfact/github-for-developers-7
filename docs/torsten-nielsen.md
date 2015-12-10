@@ -1,6 +1,10 @@
 ## Personal info
 
-**My name is:** *Torsten Nielsen*, and I am from Denmark.
+**My name is:** *Torsten Nielsen*
+
+**Country of origin:** Denmark
+
+**Home Town:** Aarhus
 
 **Favorite color:** blue
 
